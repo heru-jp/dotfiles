@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = h.hums.jp@gmail.com
+	name = Helmut Hums
